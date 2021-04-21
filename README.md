@@ -111,6 +111,6 @@
 
 <br>
 
-<p><img align='center' src="https://github-readme-stats.vercel.app/api?username=adark-amal&show_icons=true&locale=en" alt="adark-amal" width='100%'/></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=adark-amal&show_icons=true&locale=en" alt="adark-amal"/></p>
 
 
