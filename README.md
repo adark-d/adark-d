@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*ndjuEEbqMkyAwKSj325Z-A.jpeg" alt="Curious Data Scientist" /> 
+<p align="center"><img src="https://i.ibb.co/7nnz5hb/cover.png" alt="Curious Data Scientist" width='100%' /> 
 
 <br>
 <br>
@@ -42,8 +42,6 @@
 <a  href="https://en.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://www.svgrepo.com/show/7344/sql-file-format-symbol.svg" alt="sql" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 </p>
-<br>
-
 <h3 align="left">Visualization Tools:</h3>
 <p align="left"><a  href="https://www.tableau.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1200px-Tableau_Logo.png" alt="tableau" width="100" height="50"/></a>
 <a href="https://plotly.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" alt="plotly" width="100" height="50"/> </a>
@@ -51,31 +49,21 @@
 <a  href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="matplotlib" width="100" height="50"/></a>
 <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/315810/92254578-1bb0be00-ee9f-11ea-986a-fd875f2eadc6.png" alt="seaborn" width="100" height="50"/> </a> 
 </p>
-<br>
-
 <h3 align="left">ML/DL Tools:</h3>
 <p align="left">
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 </p>
-
-<br>
-
 <h3 align="left">Cloud:</h3>
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 </p>
-
-<br>
-
 <h3 align="left">Databases:</h3>
 <p align="left">
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
-
-<br>
 <h3 align="left">Others:</h3>
 <p align="left">
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
