@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/1230ZWz/cover2.png" alt="Curious Data Scientist" width='100%' /> 
+<p align="center"><img src="https://i.ibb.co/1230ZWz/cover2.png" alt="Curious Data Scientist" width='100%' height='400'/> 
 
 <br>
 <br>
