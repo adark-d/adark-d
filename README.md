@@ -3,8 +3,9 @@
 <br>
 <br>
 
-<h1 align="center">Hi 👋, I'm David Adarkwah but you can simply call me Adark.</h1>
-<h3 align="center">I am a curious young Data Scientist who is adept at collecting, analyzing, and interpreting large datasets, developing new forecasting models, and performing data management tasks. Why Data Science when I graduated as a Biomedical Engineer? The simple answer is medical device intelligence. I want to apply data science and ML models in the field of health where medical devices can be made smarter than they are now.</h3
+<h1 align="justify">Hi 👋, I'm David Adarkwah but you can simply call me Adark.</h1>
+<h3 align="justify">I am a curious young Data Scientist who is adept at collecting, analyzing, and interpreting large datasets, developing new forecasting models, and performing data management tasks.</h3>
+<h3 align="justify">Why Data Science when I graduated as a Biomedical Engineer? The simple answer is medical device intelligence. I want to apply data science and ML models in the field of health where medical devices can be made smarter than they are now.</h3>
 
 <br>
 <br>
