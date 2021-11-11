@@ -13,9 +13,7 @@
 
 <br>
 
-- 🔭 I’m currently working on [Quantium Data Analytics Virtual Internship Project](https://www.theforage.com/virtual-internships/NkaC7knWtjSbi6aYv?ref=tCfFoXSNJ4aLnBQye)
-
-- 🌱 I’m currently learning **Google Project Management on Coursera**
+- 🔭 I’m currently working on an enterprise BI and ML application for Dataware Tech Ghana Ltd.
 
 - 👯 I’m totally open to collaborate on **AI for Healthcare Projects (Cancer and Anomaly Detection)**
 
