@@ -30,8 +30,6 @@
 
 <h2> My Technology Stack </h2>
 
-<br>
-
 <h3 align="left">Programming Languages:</h3>
 <p align="left"><a  href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="matlab" width="40" height="40"/></a>
 <a  href="https://www.r-project.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" alt="matlab" width="40" height="40"/></a>
