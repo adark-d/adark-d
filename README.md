@@ -27,9 +27,8 @@
 
 <br>
 
-<hr>
+
 <h2> My Technology Stack </h2>
-<hr>
 
 <br>
 
