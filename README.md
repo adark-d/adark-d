@@ -13,13 +13,13 @@
 
 <br>
 
-- 🔭 I’m currently working on an enterprise BI and ML application for Dataware Tech Ghana Ltd.
+- 🔭 I’m currently working on an Enterprise BI and ML application for Dataware Tech Ghana Ltd.
 
 - 👯 I’m totally open to collaborate on **AI for Healthcare Projects (Cancer and Anomaly Detection)**
 
 - 👨‍💻 All of my projects are available at [Adark Amal](https://github.com/adark-amal)
 
-- 💬 I am willing to help with **Machine Learning, Data Science, Python, SQL, R, Data Analytics, Tableau, Power BI, Excel, Google Sheet, Medical Devices, Medical Imaging**
+- 💬 I am willing to help with **Machine Learning, Data Science, Python, SQL, Data Analytics, Medical Devices, Medical Imaging**
 
 - 📫 You can reach me on **davidwyse48@gmail.com**
 
@@ -33,16 +33,12 @@
 <h3 align="left">Programming Languages:</h3>
 <p align="left"><a  href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="matlab" width="40" height="40"/></a>
 <a  href="https://www.r-project.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" alt="matlab" width="40" height="40"/></a>
-<a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a>
 <a  href="https://en.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://www.svgrepo.com/show/7344/sql-file-format-symbol.svg" alt="sql" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 </p>
 <h3 align="left">Visualization Tools:</h3>
 <p align="left"><a  href="https://www.tableau.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1200px-Tableau_Logo.png" alt="tableau" width="100" height="50"/></a>
 <a href="https://plotly.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" alt="plotly" width="100" height="50"/> </a>
 <a  href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2017/04/power-bi_logo.png" alt="powerbi" width="100" height="50"/></a>
-<a  href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="matplotlib" width="100" height="50"/></a>
-<a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/315810/92254578-1bb0be00-ee9f-11ea-986a-fd875f2eadc6.png" alt="seaborn" width="100" height="50"/> </a> 
 </p>
 <h3 align="left">ML/DL Tools:</h3>
 <p align="left">
@@ -61,12 +57,9 @@
 </p>
 <h3 align="left">Others:</h3>
 <p align="left">
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
 
 <br>
