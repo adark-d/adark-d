@@ -3,9 +3,9 @@
 <br>
 <br>
 
-<h1 align="justify">Hi 👋, I'm David Adarkwah but you can simply call me Adark.</h1>
-<h3 align="justify">I am a curious young Data Scientist who is adept at collecting, analyzing, and interpreting large datasets, developing new forecasting models, and performing data management tasks.</h3>
-<h3 align="justify">Why Data Science when I graduated as a Biomedical Engineer? The simple answer is medical device intelligence. I want to apply data science and ML models in the field of health where medical devices can be made smarter than they are now.</h3>
+<h1 align="justify">Hi 👋, David Adarkwah here, but you can simply call me Adark.</h1>
+<p align="justify">I am a curious data scientist who is adept at collecting, analyzing, and interpreting large datasets, developing new forecasting models, and performing data management tasks. I love to unwrap data like a birthday present, uncover hidden insights from data and finally make informed decisions through predictive models, statistical analysis and unique trends.</p>
+<p align="justify">Why data science when I am a trained biomedical engineer? The simple answer is <b>medical device intelligence</b>. I want to apply data science and ML models in the field of healthcare where medical devices can be made smarter than they are now.</p>
 
 <br>
 <br>
@@ -30,18 +30,18 @@
 
 <h2> My Technology Stack </h2>
 
-<h3 align="left">Programming Languages:</h3>
+<h4 align="left">Programming Languages:</h4>
 <p align="left"><a  href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
 <a  href="https://www.r-project.org/" target="_blank"> <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" /></a>
 </p>
 
-<h3 align="left">Visualization Tools:</h3>
+<h4 align="left">Visualization Tools:</h4>
 <p align="left"><a  href="https://www.tableau.com/" target="_blank"> <img src="https://img.shields.io/badge/-Tableau-87CEFA?logo=tableau&logoColor=E97627&style=for-the-badge" alt="tableau"/></a>
 <a href="https://plotly.com/" target="_blank"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly"/> </a>
 <a  href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://img.shields.io/badge/-Power%20BI-696969?logo=power-bi&logoColor=F2C811&&style=for-the-badge" alt="powerbi"/></a>
 </p>
 
-<h3 align="left">ML/DL Tools:</h3>
+<h4 align="left">ML/DL Tools:</h4>
 <p align="left">
 <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/> </a> 
@@ -51,21 +51,21 @@
 <a href="https://scipy.org/" target="_blank"> <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="Scipy"/> </a>
 </p>
 
-<h3 align="left">Cloud:</h3>
+<h4 align="left">Cloud:</h4>
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white" alt="azure"/> </a>
 <a href="https://cloud.google.com" target="_blank"> <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp"/> </a>
 <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/> </a>
 </p>
 
-<h3 align="left">Databases:</h3>
+<h4 align="left">Databases:</h4>
 <p align="left">
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="sqlserver"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> </a>
 </p>
 
-<h3 align="left">Others:</h3>
+<h4 align="left">Others:</h4>
 <p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
@@ -96,7 +96,7 @@
 
 <br>
 
-<h2 align="left">Contact me:</h2>
+<h2 align="left">Contact</h2>
 <p align="left"><a href="https://linkedin.com/in/david-adarkwah-304127125" target="blank"><img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 <p align="left"><a href="mailto: davidwyse48@gmail.com" target="blank"><img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
@@ -105,4 +105,5 @@
 <br>
 <br>
 
+<h2 align="left">Statistics</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=adark-amal&show_icons=true&locale=en" alt="adark-amal"/></p>
