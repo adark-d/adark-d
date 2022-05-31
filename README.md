@@ -3,9 +3,8 @@
 <br>
 <br>
 
-<h1 align="justify">Hi 👋, nice to see you.</h1>
-<p align="justify">Curious data scientist and ML engineer with 3+ years of experience in collecting, storing, analyzing large datasets, and building predictive models to help businesses strategize and make informed decisions. Loves working with data and can comprehensively translate business problems into data science use cases. Passionate about building products that deliver secure, innovative solutions that grow revenue, reduce costs, and optimize performance.</p>
-<p align="justify"></p>
+<h3 align="justify">Hi 👋, nice to see you. And you're welcome to my page.</h3>
+<p align="justify">My name is David but you can also call me Nana. I'm a Data scientist and ML engineer from Accra, Ghana.</p>
 
 <br>
 <br>
