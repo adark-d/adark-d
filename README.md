@@ -7,7 +7,6 @@
 <p align="justify">My name is David but you can also call me Nana. I'm a Data scientist and ML engineer from Accra, Ghana.</p>
 
 <br>
-<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adark-amal&label=Profile%20views&color=0e75b6&style=flat" alt="adark-amal" /> </p>
 
 <br>
