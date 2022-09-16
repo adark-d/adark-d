@@ -1,9 +1,5 @@
-<p align="center"><img src="https://github.com/Adark-Amal/Adark-Amal/blob/main/profile.png" alt="Curious Data Scientist" width='100%' height='400'/> 
 
-<br>
-<br>
-
-<h3 align="justify">Hi 👋, nice to see you. And you're welcome to my page.</h3>
+<h3 align="justify">Hi 👋, welcome to my page.</h3>
 <p align="justify">My name is David but you can also call me Nana. I'm a Data scientist and ML engineer from Accra, Ghana.</p>
 
 <br>
@@ -11,12 +7,12 @@
 
 <br>
 
-- 🔭 I’m currently working on an Enterprise BI and ML application for Dataware Tech Ghana Ltd.
-- 👯 I’m totally open to collaborate on **AI for Healthcare Projects (Cancer and Anomaly Detection)**
+- 🔭 I’m currently working on an NLP semantic search engine for a medical education company.
+- 👯 I’m totally open to collaborate on **NLP projects**
 - 👨‍💻 All of my projects are available at [Adark Amal](https://github.com/adark-amal)
 - 💬 I am willing to help with **Machine Learning, Data Science, Python, SQL, Data Analytics, Medical Devices, Medical Imaging**
-- 📫 You can reach me on my gmail account below
-- ⚡ I enjoy **research, watching David Attenborough documentarie, and playing football**
+- 📫 You can reach me on Gmail and my LinkedIn profile below.
+- ⚡ I enjoy **researching, watching David Attenborough documentaries, and playing football**
 - 🚴🏽‍♀️ Fun fact: I love to go on a safari trip to see wild animals. I love to explore nature and understand how certain things happen.
 
 <br>
