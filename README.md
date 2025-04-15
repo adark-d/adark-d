@@ -1,62 +1,76 @@
 
-<h3 align="justify">Hi 👋, welcome to my page.</h3>
-<p align="justify">My name is David but you can also call me Nana. I'm a Data scientist and ML engineer from Accra, Ghana.</p>
+<h1 align="center">Hi, Dave here 👋🏽</h1>
+<p align="center">
+  Thoughtful builder passionate about <code>building smart, scalable systems</code> that <code>turn data into decisions</code>
+</p>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=440&lines=AI+Engineer;Data+Scientist;Building+Impactful+Projects" alt="Typing SVG" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adark-amal&label=Profile%20views&color=0e75b6&style=flat" alt="adark-amal" /> </p>
 
-<br>
+#### ⚡️ What I'm Up To
+- 🤖 Designing intelligent systems that learn from data  
+- 📦 Building scalable data & ML pipelines from ingestion to deployment  
+- 📊 Exploring model monitoring, evaluation, and continuous learning  
+- 🧼 Turning raw data into clean, actionable insights
 
-- 🔭 I’m currently working on an NLP semantic search engine for a medical education company.
-- 👯 I’m totally open to collaborate on **NLP projects**
-- 👨‍💻 All of my projects are available at [Adark Amal](https://github.com/adark-amal)
-- 💬 I am willing to help with **Machine Learning, Data Science, Python, SQL, Data Analytics, Medical Devices, Medical Imaging**
-- 📫 You can reach me on Gmail and my LinkedIn profile below.
-- ⚡ I enjoy **researching, watching David Attenborough documentaries, and playing football**
-- 🚴🏽‍♀️ Fun fact: I love to go on a safari trip to see wild animals. I love to explore nature and understand how certain things happen.
+---
 
-<br>
+#### 🧰 Toolbox
 
+> Building data systems that think, adapt, and make a difference.
 
-<h3> My technology stack </h3>
 <p align="left">
- <a  href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
-<a  href="https://www.r-project.org/" target="_blank"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" /></a>
-<a  href="https://www.tableau.com/" target="_blank"><img src="https://img.shields.io/badge/-Tableau-87CEFA?logo=tableau&logoColor=E97627&style=for-the-badge" alt="tableau"/></a>
-<a href="https://plotly.com/" target="_blank"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly"/></a>
-<a  href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://img.shields.io/badge/-Power%20BI-696969?logo=power-bi&logoColor=F2C811&&style=for-the-badge" alt="powerbi"/></a>
-<a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/></a>
-<a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> </a>
-<a href="https://scipy.org/" target="_blank"> <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="Scipy"/> </a>
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white" alt="azure"/> </a>
-<a href="https://cloud.google.com" target="_blank"> <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp"/> </a>
-<a href="https://www.heroku.com/" target="_blank"> <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="sqlserver"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
-<a href="https://www.latex-project.org/" target="_blank"> <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="latex"/> </a>
-<a href="https://www.markdownguide.org/" target="_blank"> <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
-<a href="https://www.anaconda.com/" target="_blank"> <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="anaconda"/>
-<a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter"/>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/></a>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-05998C?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp"/>
+  <img src="https://img.shields.io/badge/MLflow-102C55?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Tableau-87CEFA?logo=tableau&logoColor=E97627&style=for-the-badge" alt="tableau"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Evidently_AI-663399?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM-Purple?style=for-the-badge&logo=opsgenie&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FCC72E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
-<br>
 
-<h3 align="left">Where to find me</h3>
+---
+
+#### 🔗 Let's Connect
 <p align="left">
-<a href="https://linkedin.com/in/d-adark" target="blank"><img align="left" alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto: davidwyse48@gmail.com" target="blank"><img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/d-adark/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:davidwyse48@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email_Dave-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.credly.com/users/david_adarkwah">
+    <img src="https://img.shields.io/badge/Portfolio-visit-informational?style=flat&logo=internet-explorer" alt="Portfolio"/>
+  </a>
+  <a href="https://calendly.com/d-adark/30min">
+    <img src="https://img.shields.io/badge/Schedule-Meet-blue?style=flat&logo=calendly" alt="Calendly"/>
+  </a>
 </p>
-  
-<br>
-<br>
-<br>
 
-<h2 align="left">Statistics</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=adark-amal&show_icons=true&locale=en" alt="adark-amal"/></p>
+---
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=adark-d&show_icons=true&locale=en" alt="GitHub Stats" width="350" height="200"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=adark-d&layout=compact" alt="GitHub Streak" width="350" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adark-d&layout=compact" alt="Top Languages" width="300" height="200"/>
+</div>
+
+
+
