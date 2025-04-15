@@ -66,9 +66,9 @@
 
 ---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adark-d&show_icons=true&locale=en" alt="GitHub Stats" width=300/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=adark-d&layout=compact" alt="GitHub Streak" width=300/>
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=adark-d&show_icons=true&locale=en" alt="GitHub Stats" style="max-width: 100%; width: 45%; min-width: 300px; margin: 5px;" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=adark-d&layout=compact" alt="GitHub Streak" style="max-width: 100%; width: 45%; min-width: 300px; margin: 5px;" />
 </div>
 
 
