@@ -11,15 +11,15 @@
 
 <h4 align="center"> Let's Connect </h4>
 <p align="center">
-  <a href="https://www.linkedin.com/in/d-adark/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:davidwyse48@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email_Dave-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://calendly.com/d-adark/30min">
-    <img src="https://img.shields.io/badge/Schedule-Meet-blue?style=flat&logo=calendly" alt="Calendly"/>
-  </a>
+<a href="https://www.linkedin.com/in/d-adark/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:davidwyse48@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://calendly.com/d-adark/30min">
+  <img src="https://img.shields.io/badge/Calendly-006BFF?style=flat&logo=calendly&logoColor=white" alt="Calendly"/>
+</a>
 </p>
 
 <br/>
