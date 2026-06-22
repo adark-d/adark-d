@@ -1,23 +1,16 @@
 
-<h1 align="center">Hi, Dave here 👋🏽</h1>
+<img src="./banner_white.gif" alt="David Adarkwah — Forward Deployed AI Engineer" width="100%" />
+
 <p align="center">
   I get <code>LLM & agentic systems</code> out of the demo and <code>into production</code>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=440&lines=Forward+Deployed+AI+Engineer;Applied+AI;Building+Impactful+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Building+LLM+%26+agentic+systems+that+hold+up;Not+the+demo+but+the+version+people+actually+use;I+care+about+the+unglamorous+parts+that+break;Turning+messy+data+into+systems+people+trust" alt="Typing SVG" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adark-amal&label=Profile%20views&color=0e75b6&style=flat" alt="adark-amal" /> </p>
-
-#### What I'm Up To
-- 🤖 Building LLM and agentic systems that hold up in real workflows
-- 📦 Shipping AI pipelines end to end from ingestion to evaluated output
-- 📊 Working on evaluation, observability, and the unglamorous parts that decide whether AI works
-- 🧼 Turning messy, real-world data into systems people actually use
-
-#### Let's Connect
-<p align="left">
+<h4 align="center"> Let's Connect </h4>
+<p align="center">
   <a href="https://www.linkedin.com/in/d-adark/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
@@ -29,5 +22,11 @@
   </a>
 </p>
 
+<br/>
+<h4 align="center"> Profile Stats </h4>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adark-d&show_icons=true&hide_border=true&count_private=true&theme=transparent&icon_color=fa6e1e&title_color=fa6e1e" alt="GitHub stats" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adark-d&layout=compact&hide_border=true&theme=transparent&title_color=fa6e1e" alt="Top languages" width="24%" />
+  <img src="https://streak-stats.demolab.com?user=adark-d&hide_border=true&theme=transparent&ring=fa6e1e&fire=fa6e1e&currStreakLabel=fa6e1e&sideLabels=fa6e1e" alt="GitHub streak" width="32%" />
+</p>
